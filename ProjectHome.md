@@ -1,0 +1,1 @@
+Simple webview with QR code reader
